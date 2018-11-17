@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-basics-arithmetic-lab#readme",
   "devDependencies": {
-    "learn-browser": "^0.1.17"
+    "learn-browser": "^0.1.17",
+    "mocha": "^5.2.0"
   }
 }
